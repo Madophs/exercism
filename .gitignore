@@ -53,3 +53,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# exercism files
+vendor/
+tags
+.exercism/
+Makefile
+debug.mac
+*.md
+*_test.c
+tests
